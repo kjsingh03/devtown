@@ -6,8 +6,8 @@ Tech stack :
 
 NoSQL Database MongoDB.
 
-Server developed with NodeJS & ExpressJS.
+Server developed using NodeJS & ExpressJS.
 
 Design & Development via ReactJS & Tailwind CSS.
 
-Password encryption using Bcrypt & user authentication via JWT token
+User authentication & Password encryption via Jwt Token & Bcrypt.
